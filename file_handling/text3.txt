@@ -1,0 +1,4 @@
+name : ganesh 
+class : 10 
+age : 16 
+the end

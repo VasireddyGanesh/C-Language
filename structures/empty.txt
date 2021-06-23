@@ -1,0 +1,4 @@
+Roll no. Name subject1 subject2 subject3 Average
+1		 ganesh	 100		 98		 99		 99.000000 
+2		 ravi	 100		 96		 99		 98.333336 
+3		 suresh	 100		 97		 98		 98.333336 
